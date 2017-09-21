@@ -1,2 +1,3 @@
 # xmind
-保存xmind文件
+
+保存一些平时用xmind绘制的图.
